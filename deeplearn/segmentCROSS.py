@@ -382,7 +382,6 @@ with tf.compat.v1.Session(graph=graph, config=config) as sess:
 
 
 print("///////END//////////")
-print("Complimenti Ce l'hai fatta!")
 print("Media:")
 print("dice=",Media_dice/i) 
 print("jaccard=",Media_jaccard/i)  
